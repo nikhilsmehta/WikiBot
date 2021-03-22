@@ -2,6 +2,7 @@
 
 ## Introduction
 
+DISCLAIMER: THIS BOT IS NO LONGER RUNNING
 >This is a Discord Bot made using Python that allows for Wikipedia queries to be made directly from Discord. It uses the Wikipedia API (https://pypi.org/project/Wikipedia-API/)
 
 ## Usage
